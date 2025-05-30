@@ -21,3 +21,5 @@ while(true) {
         console.log("Wrong input");
     }
 }
+
+//random game
